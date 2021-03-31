@@ -22,11 +22,8 @@ freq_spw,Spectrum type,Species,QNs,Frequency (GHz),Velocity (km/s),Comment,Addit
 102_spw106,max,NH2CHO," 5(1,5)–4(1,4)",102.064263,41,Jones+2008 and code agree,,,,,
 102_spw106,max,H2COH+,"4(0,4)–3(1,3)",102.065856,46,Jones+2008 and code agree,,,,,
 102_spw106,max,CH3CCHv=0,6(3)–5(3),102.530346,39,seen in Jones+2008,thermometer,,,,
-102_spw106,max,"(CH3)2COvt=1
-(CH3)2COv=0","10(*,10)–9(*,9)
-10(0,10)–9(1,9)EE","102.533756
-102.554696","61
-49",acetone. maybe? could be mis-ID of CH3CCH. Adam is skeptical of these,,,,,
+102_spw106,max,(CH3)2COvt=1,"10(*,10)–9(*,9)",102.533756,61,acetone. maybe? could be mis-ID of CH3CCH. Adam is skeptical of these,,,,,
+102_spw106,max,(CH3)2COv=0,"10(0,10)–9(1,9)EE",102.554696,49,acetone. maybe? could be mis-ID of CH3CCH. Adam is skeptical of these,,,,,
 102_spw106,max,H2CS,"3(2,2)–2(2,1)",103.03999,37,seen in Jones+2008,,,,,
 102_spw106,mean,NH2CHO," 5(1,5)–4(1,4)",102.064263,25,Jones+2008 and code agree,,,,,
 102_spw106,mean,H2COH+,"4(0,4)–3(1,3)",102.065856,46,Jones+2008 and code agree,,,,,
